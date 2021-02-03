@@ -1,2 +1,2 @@
 # unix_terminal_commands
-Muistilista unix-komennoista, jotka haluan muistaa
+pwd is command that shows you the current directory
